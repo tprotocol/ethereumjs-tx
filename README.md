@@ -7,7 +7,7 @@
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)  
 
 # INSTALL
-`npm install ethereumjs-tx`
+`npm install vaporyjs-tx`
 
 # USAGE
 
